@@ -6,3 +6,4 @@ Offical script:
 ```bash
 python multi_loadDataset.py
 ```
+Note that you have downloaded the official `dataset.json` from [download script](https://drive.google.com/drive/folders/1_GYPY5UkUy7HIcR0zq3ZCFgeZN7BAfm_?usp=sharing).
